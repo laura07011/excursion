@@ -1,0 +1,15 @@
+h1{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+.follow{
+  color: Aquamarine;
+  font-size: 16px;
+}
+*{
+  background-color: black;
+  text-align: center;
+}
